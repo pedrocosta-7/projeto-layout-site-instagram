@@ -97,7 +97,7 @@ ul {list-style: none;
 display: flex;
 flex-direction: column;
 gap: 20px;
-padding: 24px 0 100px 0;}
+padding: 24px 0 60px 0;}
 ul li a{
 display: flex;
 justify-content: center;
